@@ -424,7 +424,7 @@
     }
 
     function loadCode() {       
-        src = localStorage.getItem("code");
+        src = null //localStorage.getItem("code");
         if (src === null || src == "") {
             openCode("demo");
         }
