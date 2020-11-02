@@ -1,1 +1,1 @@
-# TGPD2020S2_Demos
+# Data Science and Game Programming - 2020

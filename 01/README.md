@@ -1,4 +1,4 @@
-# My Early Pre-Alpha Release
+# My Game Title
 
 ## How to Play :
 1. Follow the link
