@@ -268,7 +268,7 @@
                         
                         </div>
                         
-                        <div id="editorBox">                            
+                        <div id="editorBox" hidden>                            
                             <div id="editor"></div>                            
                         </div>
                         
@@ -426,7 +426,7 @@
     function loadCode() {       
         src = null //localStorage.getItem("code");
         if (src === null || src == "") {
-            openCode("sinemoji");
+            openCode("demo");
         }
         else {
             editor.setValue(src, -1);
