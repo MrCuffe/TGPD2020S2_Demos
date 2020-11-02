@@ -521,6 +521,7 @@ body.pynode .pynodeLogo {
 body.pynode .pynodeTitle {
     height: 210px;
     font: 6.0rem/1.1 'Oswald', sans-serif;
+    padding-bottom: 50px;
 }
 
 body.pynode .pynodeSubtitle {
