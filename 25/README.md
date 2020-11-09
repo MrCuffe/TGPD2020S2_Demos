@@ -3,6 +3,6 @@
 ## Description
 
 ## How to Play :
-
+[](angelosync.html)
 ## Feedback
-[Feedback and bug hunt form](https://forms.gle/tuTL25kXgqJi6Diz8)
+[Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSekz1schl_va_0rSx1GDOcmyARbq10Z-FqREiZlVZFPza4Mhg/viewform?usp=sf_link)
