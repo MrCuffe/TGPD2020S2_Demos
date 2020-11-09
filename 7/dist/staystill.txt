@@ -1,0 +1,18 @@
+﻿
+---> YOU STAY STILL
+
+[+1 Mission Self-Destruct]
+
+//
+Moving will only make it worse, I'll only make noise and alert it...
+//
+
+The alien stops a few centimetres before me, listening intently. I hold my breath and close my eyes. 
+
+As it walks to the door, I slowly start crawling towards the glass cage containing the antidote.
+
+It's sealed tight.
+
+{You}
+1. Break the glass
+2. Don't break the glass

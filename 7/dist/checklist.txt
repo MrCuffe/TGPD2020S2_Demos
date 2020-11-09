@@ -1,0 +1,27 @@
+﻿
+The mp3 player is playing a voice recording...
+
+----------------------------------------------
+-                 MP3 Player                 - 
+-                                            -
+-                Track List:                 -  
+- 1. space song                              -
+-                                            -
+- 2. PLAY ME                                 -
+-        >> pause                            -                
+-                                            -
+----------------------------------------------
+
+//Track Two Transcript: 
+     The ingredients for the Black Fever cure:
+     1. One snip of parmite
+     2. Moondust
+     3. Water
+     
+     We hope this helps...
+     In our world, they came back for us. 
+     Everyone survived. 
+     We're sorry it had to be this way.
+     
+     - Parallelian Hopefuls
+          

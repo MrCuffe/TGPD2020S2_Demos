@@ -1,0 +1,31 @@
+﻿
+It's a map! This will be useful
+
+_______________________________________________
+
+SHIP BS142050
+
+        -----------
+         |   A   |                 Third Floor 
+ --------------------------
+ | B1  |  B2  | B3  |  B4 |        Second Floor 
+   -----------------------
+      |C1 | C2 | C3 |              First floor 
+
+A - Restricted
+     
+B1 - Food Storehouse
+B2 - Restricted
+B3 - Library
+B4 - Cryosleep Bunk Area
+
+C1 - Hangar
+C2 - Lobby 
+C3 - Restricted
+
+ceehtr
+The beginning of eternity,
+The end of time and space
+The beginning of every end,
+And the end of every place.
+_______________________________________________

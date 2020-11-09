@@ -1,0 +1,44 @@
+﻿=================
+ E P I L O G U E
+=================
+  [Bad Ending]
+
+             ...                            
+             ;::::;                           
+           ;::::; :;                          
+         ;:::::'   :;                         
+        ;:::::;     ;.                        
+       ,:::::'       ;           OOO\         
+       ::::::;       ;          OOOOO\        
+       ;:::::;       ;         OOOOOOOO       
+      ,;::::::;     ;'         / OOOOOOO      
+    ;:::::::::`. ,,,;.        /  / DOOOOOO    
+  .';:::::::::::::::::;,     /  /     DOOOO   
+ ,::::::;::::::;;;;::::;,   /  /        DOOO  
+;`::::::`'::::::;;;::::: ,#/  /          DOOO 
+:`:::::::`;::::::;;::: ;::#  /            DOOO
+::`:::::::`;:::::::: ;::::# /              DOO
+`:`:::::::`;:::::: ;::::::#/               DOO
+ :::`:::::::`;; ;:::::::::##                OO
+ ::::`:::::::`;::::::::;:::#                OO
+ `:::::`::::::::::::;'`:;::#                O 
+  `:::::`::::::::;' /  / `:#                  
+   ::::::`:::::;'  /  /   `#              
+
+{Dr. Williams}
+
+I was told earlier this morning that (player_name) was unable to make it out of the ship alive.
+
+The remaining soldiers evacuated the ship with no cure and no way of destroying it completely.
+
+One careless lab staff member left the quarantine door open, so Squad 256 were able to escape.
+
+Black Fever spread quickly and we had no hope of finding a cure.
+
+The intersolar government was quick to abandon Earth, in fear of having the whole solar system contaminated.
+ 
+I was valuable enough of an asset that they escorted me to Mars.
+
+I promised to never speak of (player_name) or Black Fever again.
+
+THE END.

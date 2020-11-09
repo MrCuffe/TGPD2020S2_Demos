@@ -1,0 +1,19 @@
+0,NONE,NA,NA,NA
+1,Double Slap,Comet Punch,Mega Punch
+2,Fire Punch,Ember,Flamethrower
+3,Water Gun,Hydro Pump,Surf
+4,Thunder Shock,Thunderbolt,Thunder Wave
+5,Spore,Cotton Spore,Giga Drain
+6,Hail,Ice Ball,Icicle Spear
+7,Karate Chop,Triple Kick,Reversal
+8,Smog,Sludge,Poison Gas
+9,Earthquake,Fissure,Dig
+10,Mirror Move,Sky Attack,Feather Dance
+11,Luster Purge,Mist Ball,Cosmic Power
+12,Signal Beam,Tail Glow,U-turn
+13,Power Gem,Rock Throw,Rock Slide
+14,Confuse Ray,Nightmare,Spite
+15,Outrage,Dragon Breath,Twister
+16,Pursuit,Crunch,Beat Up
+17,Meteor Mash,Metal Sound,Iron Defense
+18,Fairy Wind,Light of Ruin,Twinkle Tackle

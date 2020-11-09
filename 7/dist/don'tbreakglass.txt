@@ -1,0 +1,31 @@
+﻿
+----> YOU DON'T BREAK THE GLASS
+
+[+1 Mission Self-Destruct]
+[No Lives Lost]
+
+//
+I shouldn't try to break the glass, I might make noise and even worse, spill the antidote.
+
+There should be a smarter way of opening the cage...
+//
+
+After seconds of searching, I find a lever positioned behind the cage. 
+
+I pull it down and the liquid freezes, molding itself around the antidote. 
+
+There's a quiet hiss as the glass cage opens. 
+
+With ease, I take the container from the frozen liquid.
+
+I'm so focused on getting the antidote that I don't notice the alien behind me, closing in.
+
+I need to do something!
+
+Frantically, I look around for anything that could save me.
+
+There's a button for the alarm and another for something else. 
+
+{You}
+1. Press the blue button
+2. Sound the alarm

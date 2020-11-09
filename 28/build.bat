@@ -1,0 +1,1 @@
+cxfreeze -c .\my_game.py --target-dir dist --include-files cave_dripping.wav,distant_thunder.wav,fairy_dust.wav,fire.wav,light_wind.wav,morning_birds.wav,my_game.py,night_crickets.wav,river.wav,sea_waves.wav
