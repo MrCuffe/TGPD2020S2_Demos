@@ -1,4 +1,4 @@
-# My Mario Rip-off game
+# Title of your game
 
 # Description
 My rip-off version of the Nintendo Mario Game!

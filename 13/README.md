@@ -1,4 +1,4 @@
-# My Mario Rip-off game
+# Title of your game
 
 ## Description
 
