@@ -146,7 +146,6 @@ if playing == True:
     graphics.drawSprite(broccoli)
     graphics.drawSprite(bomb)
     graphics.drawSprite(life)
-    graphics.drawSprite(prize_life)
     graphics.drawSprite(dog)
     graphics.drawText("Score: " + str(score), x=0, y=370, fontSize=20)
     graphics.drawText("Lives: " + str(lives), x=0, y=340, fontSize=20)
