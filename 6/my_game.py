@@ -51,7 +51,7 @@ if ready == "Yes" or ready == "yes" or ready == "yea":
     time.sleep(1)
     print("Good, lets go.")
 elif ready == "No" or ready == "no" or ready == "nope":
-    print("You suck bitch.")
+    print("You #$%# #$@$#. Have a better life!")
     time.sleep(1)
     print(space)
     print("Game Over")

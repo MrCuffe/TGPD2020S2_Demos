@@ -1,0 +1,1 @@
+cxfreeze -c .\my_game.py --target-dir dist
