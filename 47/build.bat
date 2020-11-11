@@ -1,1 +1,1 @@
-cxfreeze -c .\my_game.py --target-dir dist --include-files alien_1-1.png,alien_2-1.png,asteroid-1.png,background-3.jpg,enemy_explosion-1.wav,explosion-1.wav,heal_sound.wav,laser_sound2-1.wav,laser_sound3.wav,laser_sound4.wav,powerup-1.png,sound1-1.wav,spaceship-3.png
+cxfreeze -c .\my_game.py --target-dir dist --include-files spaceship_explosion.wav,alien_1.png,alien_2.png,asteroid.png,background.jpg,enemy_explosion.wav,explosion.wav,heal_sound.wav,laser_sound1.wav,laser_sound2.wav,laser_sound3.wav,laser_sound4.wav,powerup.png,sound1.wav,spaceship.png
