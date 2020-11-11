@@ -1,6 +1,6 @@
 ﻿# Game Programming Testing Homepage
 Please choose a game to test and provide nice and constructive feedback.
-[![[Game 0](https://mrcuffe.github.io/TGPD2020S2_Demos/0)](https://via.placeholder.com/468x60/0000FF/FFFFFF?text=Game+0)](https://mrcuffe.github.io/TGPD2020S2_Demos/0)
+[Game 0](https://mrcuffe.github.io/TGPD2020S2_Demos/0)
 [![Game Link](https://via.placeholder.com/468x60/0000EE/FFFFFF?text=Game+1)](https://mrcuffe.github.io/TGPD2020S2_Demos/1)
 [![Game Link](https://via.placeholder.com/468x60/0000DD/FFFFFF?text=Game+2)](https://mrcuffe.github.io/TGPD2020S2_Demos/2)
 [![Game Link](https://via.placeholder.com/468x60/0000CC/FFFFFF?text=Game+3)](https://mrcuffe.github.io/TGPD2020S2_Demos/3)
