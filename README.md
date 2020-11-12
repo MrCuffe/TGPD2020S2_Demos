@@ -1,143 +1,143 @@
-﻿#  Game Programming Testing Homepage
+﻿#  game Programming Testing Homepage
 
 Please choose a game to test and provide nice and constructive feedback.
 
-[Game 0 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/0)
+[game 0 ](https://mrcuffe.github.io/TGPD2020S2_Demos/0)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-1#README.md)
-[Game 1 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/1)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-1#README.md) for 
+[game 1 ](https://mrcuffe.github.io/TGPD2020S2_Demos/1)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-2#README.md)
-[Game 2 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/2)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-2#README.md) for 
+[game 2 ](https://mrcuffe.github.io/TGPD2020S2_Demos/2)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-3#README.md)
-[Game 3 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/3)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-3#README.md) for 
+[game 3 ](https://mrcuffe.github.io/TGPD2020S2_Demos/3)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-4#README.md)
-[Game 4 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/4)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-4#README.md) for 
+[game 4 ](https://mrcuffe.github.io/TGPD2020S2_Demos/4)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-5#README.md)
-[Game 5 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/5)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-5#README.md) for 
+[game 5 ](https://mrcuffe.github.io/TGPD2020S2_Demos/5)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-6#README.md)
-[Game 6 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/6)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-6#README.md) for 
+[game 6 ](https://mrcuffe.github.io/TGPD2020S2_Demos/6)
 
-[Game 7 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/7)
+[game 7 ](https://mrcuffe.github.io/TGPD2020S2_Demos/7)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-8#README.md)
-[Game 8 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/8)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-8#README.md) for 
+[game 8 ](https://mrcuffe.github.io/TGPD2020S2_Demos/8)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-9#README.md)
-[Game 9 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/9)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-9#README.md) for 
+[game 9 ](https://mrcuffe.github.io/TGPD2020S2_Demos/9)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-10#README.md)
-[Game 10 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/10)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-10#README.md) for 
+[game 10 ](https://mrcuffe.github.io/TGPD2020S2_Demos/10)
 
-[Game 11 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/11)
+[game 11 ](https://mrcuffe.github.io/TGPD2020S2_Demos/11)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-12#README.md)
-[Game 12 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/12)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-12#README.md) for 
+[game 12 ](https://mrcuffe.github.io/TGPD2020S2_Demos/12)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-13#README.md)
-[Game 13 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/13)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-13#README.md) for 
+[game 13 ](https://mrcuffe.github.io/TGPD2020S2_Demos/13)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-14#README.md)
-[Game 14 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/14)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-14#README.md) for 
+[game 14 ](https://mrcuffe.github.io/TGPD2020S2_Demos/14)
 
-[Game 15 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/15)
+[game 15 ](https://mrcuffe.github.io/TGPD2020S2_Demos/15)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-16#README.md)
-[Game 16 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/16)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-16#README.md) for 
+[game 16 ](https://mrcuffe.github.io/TGPD2020S2_Demos/16)
 
-[Game 17 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/17)
+[game 17 ](https://mrcuffe.github.io/TGPD2020S2_Demos/17)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-18#README.md)
-[Game 18 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/18)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-18#README.md) for 
+[game 18 ](https://mrcuffe.github.io/TGPD2020S2_Demos/18)
 
-[Game 19 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/19)
+[game 19 ](https://mrcuffe.github.io/TGPD2020S2_Demos/19) for 
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-20#README.md)
-[Game 20 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/20)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-20#README.md) for 
+[game 20 ](https://mrcuffe.github.io/TGPD2020S2_Demos/20)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-21#README.md)
-[Game 21 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/21)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-21#README.md) for 
+[game 21 ](https://mrcuffe.github.io/TGPD2020S2_Demos/21)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-22#README.md)
-[Game 22 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/22)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-22#README.md) for 
+[game 22 ](https://mrcuffe.github.io/TGPD2020S2_Demos/22)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-22#README.md)
-[Game 23 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/23)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-22#README.md) for 
+[game 23 ](https://mrcuffe.github.io/TGPD2020S2_Demos/23)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-24#README.md)
-[Game 24 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/24)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-24#README.md) for 
+[game 24 ](https://mrcuffe.github.io/TGPD2020S2_Demos/24)
 
-[Game 25 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/25)
+[game 25 ](https://mrcuffe.github.io/TGPD2020S2_Demos/25)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-26#README.md)
-[Game 26 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/26)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-26#README.md) for 
+[game 26 ](https://mrcuffe.github.io/TGPD2020S2_Demos/26)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-27#README.md)
-[Game 27 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/27)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-27#README.md) for 
+[game 27 ](https://mrcuffe.github.io/TGPD2020S2_Demos/27)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-28#README.md)
-[Game 28 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/28)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-28#README.md) for 
+[game 28 ](https://mrcuffe.github.io/TGPD2020S2_Demos/28)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-29#README.md)
-[Game 29 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/29)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-29#README.md) for 
+[game 29 ](https://mrcuffe.github.io/TGPD2020S2_Demos/29)
 
-[Game 30 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/30)
+[game 30 ](https://mrcuffe.github.io/TGPD2020S2_Demos/30)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-31#README.md)
-[Game 31 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/31)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-31#README.md) for 
+[game 31 ](https://mrcuffe.github.io/TGPD2020S2_Demos/31)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-32#README.md)
-[Game 32 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/32)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-32#README.md) for 
+[game 32 ](https://mrcuffe.github.io/TGPD2020S2_Demos/32)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-33#README.md)
-[Game 33 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/33)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-33#README.md) for 
+[game 33 ](https://mrcuffe.github.io/TGPD2020S2_Demos/33)
 
-[Game 34 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/34)
+[game 34 ](https://mrcuffe.github.io/TGPD2020S2_Demos/34)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-35#README.md)
-[Game 35 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/35)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-35#README.md) for 
+[game 35 ](https://mrcuffe.github.io/TGPD2020S2_Demos/35)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-36#README.md)
-[Game 36 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/36)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-36#README.md) for 
+[game 36 ](https://mrcuffe.github.io/TGPD2020S2_Demos/36)
 
-[Game 37 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/37)
+[game 37 ](https://mrcuffe.github.io/TGPD2020S2_Demos/37)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-38#README.md)
-[Game 38 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/38)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-38#README.md) for 
+[game 38 ](https://mrcuffe.github.io/TGPD2020S2_Demos/38)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-39#README.md)
-[Game 39 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/39)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-39#README.md) for 
+[game 39 ](https://mrcuffe.github.io/TGPD2020S2_Demos/39)
 
-[Game 40 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/40)
+[game 40 ](https://mrcuffe.github.io/TGPD2020S2_Demos/40)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-41#README.md)
-[Game 41 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/41)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-41#README.md) for 
+[game 41 ](https://mrcuffe.github.io/TGPD2020S2_Demos/41)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-42#README.md)
-[Game 42 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/42)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-42#README.md) for 
+[game 42 ](https://mrcuffe.github.io/TGPD2020S2_Demos/42)
 
-[Game 43 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/43)
+[game 43 ](https://mrcuffe.github.io/TGPD2020S2_Demos/43) for 
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-44#README.md)
-[Game 44 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/44)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-44#README.md) for 
+[game 44 ](https://mrcuffe.github.io/TGPD2020S2_Demos/44)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-45#README.md)
-[Game 45 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/45)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-45#README.md) for 
+[game 45 ](https://mrcuffe.github.io/TGPD2020S2_Demos/45)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-46#README.md)
-[Game 46 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/46)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-46#README.md) for 
+[game 46 ](https://mrcuffe.github.io/TGPD2020S2_Demos/46)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-47#README.md)
-[Game 47 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/47)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-47#README.md) for 
+[game 47 ](https://mrcuffe.github.io/TGPD2020S2_Demos/47)
 
-[Game 48 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/48)
+[game 48 ](https://mrcuffe.github.io/TGPD2020S2_Demos/48) for 
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-49#README.md)
-[Game 49 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/49)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-49#README.md) for 
+[game 49 ](https://mrcuffe.github.io/TGPD2020S2_Demos/49)
 
-[Alt. Link](https://repl.it/@mrmcuffe/demo-50#README.md)
-[Game 50 Link](https://mrcuffe.github.io/TGPD2020S2_Demos/50)
+[Alt. link ](https://repl.it/@mrmcuffe/demo-50#README.md) for 
+[game 50 ](https://mrcuffe.github.io/TGPD2020S2_Demos/50)
