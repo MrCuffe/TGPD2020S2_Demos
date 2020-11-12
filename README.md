@@ -1,4 +1,4 @@
-﻿#  game Programming Testing Homepage
+﻿#  Game Programming Testing Homepage
 
 Please choose a game to test and provide nice and constructive feedback.
 
