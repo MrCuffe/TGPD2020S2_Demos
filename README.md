@@ -65,7 +65,7 @@ Please choose a game to test and provide nice and constructive feedback.
 [Alt. link ](https://repl.it/@mrmcuffe/demo-22#README.md) for 
 [game 22 ](https://mrcuffe.github.io/TGPD2020S2_Demos/22)
 
-[Alt. link ](https://repl.it/@mrmcuffe/demo-22#README.md) for 
+[Alt. link ](https://repl.it/@mrmcuffe/demo-23#README.md) for 
 [game 23 ](https://mrcuffe.github.io/TGPD2020S2_Demos/23)
 
 [Alt. link ](https://repl.it/@mrmcuffe/demo-24#README.md) for 
@@ -134,7 +134,7 @@ Please choose a game to test and provide nice and constructive feedback.
 [Alt. link ](https://repl.it/@mrmcuffe/demo-47#README.md) for 
 [game 47 ](https://mrcuffe.github.io/TGPD2020S2_Demos/47)
 
-[game 48 ](https://mrcuffe.github.io/TGPD2020S2_Demos/48) for 
+[game 48 ](https://mrcuffe.github.io/TGPD2020S2_Demos/48)
 
 [Alt. link ](https://repl.it/@mrmcuffe/demo-49#README.md) for 
 [game 49 ](https://mrcuffe.github.io/TGPD2020S2_Demos/49)
