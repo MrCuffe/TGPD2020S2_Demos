@@ -19,7 +19,7 @@ Point regulators will be coming your way along the black platform. You must avoi
 ![Alt](https://mrcuffe.github.io/openGameArt/dav0017/91-914558_cherry-png-15-buy-clip-art-cherries-vector.png =40x30)
 - Chocolate (+30 points) 
 ![Alt](https://mrcuffe.github.io/openGameArt/dav0017/chocolate-icon-in-cartoon-style-isolated-on-white-vector-12863446(1).jpg =50x40)
-[*](angelosync.html)
+[Click here to play the game](angelosync.html)
 ## Feedback
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSfxdG5jQz-avDbpsSEK6X1fasSBaN-KAgSsC8PysEEU1E4O6g/viewform?usp=sf_link)
 
