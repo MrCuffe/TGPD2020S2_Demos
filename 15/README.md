@@ -11,6 +11,6 @@ Catch all the fruits.
 If you don't catch a fruit, the game ends
 (Hearts arent working right now so just think that you have one life)
 
-[Here's the link to my game](my_game.exe)
+[Here's the link to my game](angelosync.html)
 # FeedBack
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLScU2lvj3evbCjnRQpJPG_RGQ22OD4i0YrIfdECAO8cQX8fNEA/viewform?usp=sf_link)
