@@ -16,4 +16,4 @@ Shoot enemies that fly or float by while avoiding touching them at the same time
 [Download the game](JMSS-Science_Fair-Game.zip), and extract and run the my_game.exe file inside.
 
 ## Feedback
-[Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLScPzdcGrJ1htHzAJI1RJ9GGUPgCm1LAj3SCFV3HKd3ihwND4w/viewform?usp=sf_link)
+[Open Beta testing Feedback form](https://docs.google.com/forms/d/e/1FAIpQLScPzdcGrJ1htHzAJI1RJ9GGUPgCm1LAj3SCFV3HKd3ihwND4w/viewform?usp=sf_link)

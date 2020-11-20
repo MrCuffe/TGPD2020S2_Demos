@@ -17,6 +17,6 @@ The timer runs ends after ten seconds, reach the end of the maze before the time
 
 ## Feedback 
 Please feel free to submit feedback for the game through this link:
-https://docs.google.com/forms/d/e/1FAIpQLScBueUpIuhpnz0a6wqHA1oQtvXouN21zi8wQNpPm9yl5oupVg/viewform?usp=sf_link
+[Open Beta testing Feedback form](https://docs.google.com/forms/d/e/1FAIpQLScBueUpIuhpnz0a6wqHA1oQtvXouN21zi8wQNpPm9yl5oupVg/viewform?usp=sf_link)
 
 

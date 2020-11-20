@@ -6,4 +6,4 @@ Its simple. Use the WASD keys to move the bottom player and the top player will 
 
 Play: [Mirror Jump ](angelosync.html)
 ## Feedback
-[Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSe5RGM9y7WZ7glFhx2rDU3xAV5HnYQt9zhfPXSLkqV2f3l1YQ/viewform?usp=sf_link).
+[Open Beta testing Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe5RGM9y7WZ7glFhx2rDU3xAV5HnYQt9zhfPXSLkqV2f3l1YQ/viewform?usp=sf_link).
