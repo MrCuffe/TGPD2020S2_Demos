@@ -13,7 +13,7 @@ WASD or arrow keys to move. Spacebar to shoot.
 Shoot enemies that fly or float by while avoiding touching them at the same time. The boxes that occasionally fly by grants the spaceship powerups if you manage to come into contact with them.
 
 ## The Game
-[Shooter game](my_game.exe)
+[Download the game](JMSS-Science_Fair-Game.zip), and extract and run the my_game.exe file inside.
 
 ## Feedback
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLScPzdcGrJ1htHzAJI1RJ9GGUPgCm1LAj3SCFV3HKd3ihwND4w/viewform?usp=sf_link)

@@ -1,7 +1,7 @@
 # Babie's  Maze 
 
 
-[Link to game ](my_game.exe)
+[Download the game](JMSS-Science_Fair-Game.zip), and extract and run the my_game.exe file inside.
 
 ## Description
 At the start of your game  you are at the opening of a maze and you've lost your home. Using the arrow keys, you have to advance through the maze before the time runs out to get home.
