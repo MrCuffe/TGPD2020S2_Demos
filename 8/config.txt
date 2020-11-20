@@ -1,6 +1,0 @@
-;!@Install@!UTF-8!
-Title="JMSS Game Programming course"
-BeginPrompt="Are you ready to play this game?"
-RunProgram="my_game.exe"
-Directory="dist\\"
-;!@InstallEnd@!
