@@ -23,6 +23,6 @@ Now in this example, you just put in the number that coresponds to the different
 3. Make sure to pay attention to the hints given to you through out the story, so that you can make good choices. 
 
 
-[Download the game](JMSS-Science_Fair-Game.zip), and extract and run the my_game.zip file inside.
+[Download the game](JMSS-Science_Fair-Game.zip), and extract and run the my_game.exe file inside.
 
 [Open Beta testing Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfboOAAlBQbBhH0QBmg4gQ6df1kXVPtuGj7ZuXDxqQdmi1XPA/viewform?usp=sf_link)
