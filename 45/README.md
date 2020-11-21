@@ -12,7 +12,7 @@ The game is a text-based game, where the player can choose their own choices. Wh
 
 ## Link to Game
 Please use the link below to access the game:
-[Rescue Mission Link](my_game.exe)
+[Rescue Mission Link](my_game.zip)
 
 ## Feedback Form
 Feedback form can be accessed here:

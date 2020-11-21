@@ -17,7 +17,7 @@ You as a player must take on the role of a physicist to perform tasks and solve 
 
 
 ## How to Play :
-[Click to play my game!](my_game.exe)
+[Click to play my game!](my_game.zip)
 
 ## Feedback
 Please provide feedback for thia game for it to be further improved:))

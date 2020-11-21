@@ -33,7 +33,7 @@ If you are not ready to fight, Run or Hide
 If you are ready to fight, type "Fight"
 
 Ready? Click the link to play.
-[*](my_game.exe)
+[*](my_game.zip)
 
 ## Feedback
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSeXY_88c7B5Iz3-E7hXMIgmhbhAcGLcVYMcZzZ-oUvHPxxqlA/viewform?usp=sf_link)

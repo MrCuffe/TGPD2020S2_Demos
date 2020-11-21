@@ -13,8 +13,8 @@ This game isn’t like most. This game is more on the educational side and is me
 1. You must enter your grade, mood and subject of study to receive a personalised learning structure. 
 2. You need to answer all the questions before moving on to another subject. Answers need to be in English
 
-[Download my game here](my_game.exe)
-[Download my questions here](my_game.exe)
+[Download my game here](my_game.zip)
+[Download my questions here](my_game.zip)
 ## Feedback
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSca_38GP8y818PJ1Yq9yJKc1ajYKPym_mygZw9K3nG6Mj4llg/viewform?usp=sf_link)
 <!--stackedit_data:

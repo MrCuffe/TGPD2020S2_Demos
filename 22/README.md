@@ -13,7 +13,7 @@ To reach the end of the dungeon and conquer the monsters inside
 3. Only answer in the options given 
 
 ## How to Play :
-[Game Link](my_game.exe)
+[Game Link](my_game.zip)
 Click on the link above to play!
 
 ## Feedback

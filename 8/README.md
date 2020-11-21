@@ -11,7 +11,7 @@ My game consists of a character that needs to defeat three bosses by solving a r
 
 Note: Game is still in progress, but feel free to try what is there so far :)
 ![Game Link](https://via.placeholder.com/468x60/000FFF/FFFFF?text=Here is my game!)
-[Download my game here](my_game.exe)
+[Download my game here](my_game.zip)
 
 ## Feedback
 [Feedback and bug hunt form](https://docs.google.com/forms/d/e/1FAIpQLSdG2G3BS3gCUzRICQJiOXKb2AvwMLmvRkFBbUaQdonbVlAogQ/viewform?usp=sf_link)

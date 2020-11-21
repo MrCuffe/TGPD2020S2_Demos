@@ -7,7 +7,7 @@ In a world of mythical creatures and material, you have been appointed to armist
 
 ## How to Play :
 Click the hyperlink below and you will be directed to The Game. You will be able to navigate yourself from there onwards.
-[*](my_game.exe)
+[*](my_game.zip)
 
 ## Feedback
 Please take the time to play and review My Game noting down any found bugs.
